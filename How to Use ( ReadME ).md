@@ -1,7 +1,7 @@
 # Database-Voting-Registration-SQL
 
 how to use
-
+1. Downlaod any App for SQL i use Xampp.
 2. Install Xampp go to the admin panel
 3. make sure your put this project folder directly in C:/Xampp/htdocs
 4. run xampp (my sql and apache) 
