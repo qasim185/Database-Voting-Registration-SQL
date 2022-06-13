@@ -10,5 +10,5 @@ how to use
 7. In vote Creata a Table Called (regform)
 8. In regform add the following ( name,address,cnic,totalvotes,image) - all VARCHAR
 9. Now run regform
-10. just like this (localhost/DatabaseProject/regform.php)
+10. just like this (localhost/Database-Voting-Registration-SQL-master/regform.php)
 11. You can insert,delete and add Data
