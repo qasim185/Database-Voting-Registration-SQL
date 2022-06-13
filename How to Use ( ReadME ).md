@@ -11,5 +11,4 @@ how to use
 8. In regform add the following ( name,address,cnic,totalvotes,image) - all VARCHAR
 9. Now run regform
 10. just like this (localhost/DatabaseProject/regform.php)
-11. You can insert,delete,add Data
-Thanks
+11. You can insert,delete and add Data
